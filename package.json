@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Malick Arsalan Noor"
+	"author":"Malick Arsalan Noor",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
